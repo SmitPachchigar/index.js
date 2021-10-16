@@ -1,6 +1,6 @@
 var rs = require("readline-sync");
 var chalk = require("chalk");
-var questionBank = require("./questionList");
+var questionBank = require("./QuizList");
 var questionCounter = 0;
 var totalQuestion = questionBank.length;
 
@@ -13,7 +13,7 @@ let cyan = chalk.cyan
 var marks = 0
 
 
-console.log(blue("Welcome to the game!"), yellow("How well do you know about healthy food and fitness?"));
+console.log(blue("Welcome to the game!"), yellow("Do you know about that you are fitness?"));
 
 var name = rs.question(cyan("What is your name? "))
 console.log(green(`Hello ${name}!`));
