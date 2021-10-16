@@ -1,28 +1,28 @@
 const questions = [
   {
-    question : "How much exercise do experts recommend a day?",
-    answer : "60min",
-    options: ["60min","5min","0min","10min"]
+    question : "Which one of these exercises is effective for weight loss?",
+    answer : "Cardio",
+    options: ["Cardio","Yoga","Strength exercises","Balance exercises"]
   },
   {
     question : "Which is least likely to lower your blood pressure?",
-    answer : "whole-grain bread",
-    options: ["low-fat yogurt","whole-grain bread","spinach","broccoli"]
+    answer : "High-intensity interval training",
+    options: ["Heat","High-interval intensity training","High-interval intensity therapy","High-intensity interval training"]
   },
   {
-    question : "Which is least likely to cause food poisoning?",
-    answer : "mayonnaise",
-    options: ["chicken","salad","mayonnaise","beef"]
+    question : "How do you call the layer of fat around your waistline?",
+    answer : "Love handles",
+    options: ["Muffin top","Beer belly","Love handles","Tummy"]
   },
   {
-    question : "When we eat food, it gives us energy to live and grow. This fruit is dried in the sun to make raisins,grows on a vine, and is a healthy snack. Which fruit is it?",
-    answer : "grape",
-    options: ["grape","orange","apple","watermelon"]
+    question : "The exercise called “Hundred” is part of:",
+    answer : "Pilates",
+    options: ["Yogalates","Yoga","Pilates","Jogging"]
   },
   {
-    question : "On a hot day it is important to drink a lot of _______.",
-    answer : "water",
-    options: ["soda","sports drinks","water","fruit juice"]
+    question : "Which piece of equipment will be useless for the basic squat?",
+    answer : "Ankle weights",
+    options: ["Dumbbells","Bar","Ankle weights","Foam roller"]
   },
 ]
 
